@@ -1,0 +1,6 @@
+2.6. Le shell-enge
+La meilleure façon d'apprendre, c'est par la pratique. Si jamais tu veux aller plus loin dans le monde du développement, il te faudra manipuler le terminal à la perfection. Ainsi, pour t'aider à t'améliorer, nous allons te demander de faire le shell-enge.
+
+Pendant toute cette semaine, toutes les actions sur ton ordinateur devront être faites avec le terminal, et aucune avec l'explorateur habituel. Par exemple si tu dois bouger un fichier d'un dossier à un autre, tu devras le faire avec le terminal.
+
+Au début cela peut paraitre assez inutile, puisque tu vas prendre pas mal de temps pour chaque action, mais c'est une chose remarquable pour apprendre très rapidement à se servir du terminal. Je t'invite à faire plein de recherches Google pour connaitre les fonctions qui remplacent les fonctions de base de ton explorateur.

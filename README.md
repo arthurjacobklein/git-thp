@@ -1,4 +1,5 @@
-print "Hello Paris"
+print "Bonjour Paris"
 print "Hello New York"
-print "Hello Tokyo"
+print "Konichiwa Tokyo"
+
 
